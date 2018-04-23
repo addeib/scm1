@@ -46,7 +46,7 @@
             <div class="collapse navbar-collapse" id="navbar">
                 <ul class="nav navbar-nav">
                     <li class="active">
-                        <a href="www.ump.edu.my">Home</a>
+                        <a href="">Home</a>
                     </li> 
                 </ul>
 
